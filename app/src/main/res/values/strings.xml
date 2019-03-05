@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">game-findanimal-daniel</string>
+    <string name="button1">P l a y</string>
+    <string name="button2">E x i t</string>
+    <string name="button3">A g a i n</string>
+    <string name="score">Your score:</string>
+    <string name="error">Remaining error:</string>
+    <string name="great">G r e a t !</string>
+    <string name="over">GAME OVER</string>
+    <string name="time">Your time is: 0 s</string>
+</resources>
